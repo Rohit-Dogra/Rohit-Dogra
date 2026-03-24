@@ -190,7 +190,7 @@ const rohit = {
 
 ### 💬 Dev Quote of the Day
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code.%20Debug.%20Improve.%20Repeat.&author=Rohit%20Dogra)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code.%20Debug.%20Improve.%20Repeat.&author=Rohit%20Dogra)]
 
 <br/>
 
