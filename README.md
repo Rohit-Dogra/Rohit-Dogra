@@ -147,16 +147,7 @@ const rohit = {
 
 </div>
 
----
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-> 💡 *Add WakaTime integration to show your weekly coding stats automatically!*
-> Visit [wakatime.com](https://wakatime.com) → Install extension → Add `WAKATIME_API_KEY` to repo secrets
-<!--END_SECTION:waka-->
-
----
 
 ## 🌐 Connect With Me
 
